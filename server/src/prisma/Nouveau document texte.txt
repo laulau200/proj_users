@@ -1,0 +1,13 @@
+Environment variables loaded from .env
+Prisma schema loaded from src\prisma\schema.prisma
+The schema at src\prisma\schema.prisma is valid 🚀
+----------------
+F:\gemini_02\server>npx prisma generate
+Environment variables loaded from .env
+Prisma schema loaded from src\prisma\schema.prisma
+
+✔ Generated Prisma Client (v6.12.0) to .\node_modules\@prisma\client in 27ms
+
+Start by importing your Prisma Client (See: https://pris.ly/d/importing-client)
+
+Tip: Want to turn off tips and other hints? https://pris.ly/tip-4-nohints
